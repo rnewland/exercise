@@ -2,7 +2,7 @@ You can use Git and GitHub for version control.
 
 Git manages your files.
 
-GitHub hosts your files. But there are alternatives to GitHub. GitHub is the most popular.
+GitHub hosts your files remotely. But there are alternatives to GitHub. GitHub is the most popular.
 
 
 
